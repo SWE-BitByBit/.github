@@ -1,6 +1,5 @@
-# Università di Padova 
-# Facoltà di informatica - Corso ingegneria del software a.a. 2025/26
 # Progetto del gruppo 17 - BitByBit
+## Università di Padova, facoltà di informatica, Corso ingegneria del software a.a. 2025/26
 
 ## Componenti del gruppo
 | Nominativo | Matricola |
